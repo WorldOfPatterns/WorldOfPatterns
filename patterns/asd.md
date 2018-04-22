@@ -1,3 +1,0 @@
-## I can see you're working!
-Very good.
-Very good...
